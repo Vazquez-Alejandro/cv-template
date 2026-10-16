@@ -362,7 +362,7 @@ ul { margin: 0; padding: 0; list-style: none; }
 
 /* ---------- Footer ---------- */
 .footer { border-top: 1px solid var(--border); padding: 28px 0; }
-.footer__inner { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; font-size: 0.85rem; }
+.footer__inner { display: flex; flex-wrap: wrap; justify-content: center; text-align: center; gap: 8px; font-size: 0.85rem; }
 .footer p { margin: 0; }
 
 /* ---------- To top ---------- */
